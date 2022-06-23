@@ -1,2 +1,2 @@
 #!/bin/bash
-mv /tmp/betty /tmp/i-thinji/betty
+rm /tmp/betty /tmp/i-thinji/betty
